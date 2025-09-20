@@ -1,0 +1,5 @@
+Tính năng mới: Hệ thống đăng nhập an toàn
+Cho phép người dùng đăng nhập bằng email và mật khẩu.
+Có xác thực hai bước (OTP).
+Dữ liệu lưu trữ an toàn trong cơ sở dữ liệu.
+Giúp tăng bảo mật hệ thống.
