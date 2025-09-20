@@ -1,4 +1,3 @@
-
 Kế hoạch học tập:
 - Ôn Git mỗi ngày để nhớ lệnh cơ bản
 - Thực hành commit và push thường xuyên
