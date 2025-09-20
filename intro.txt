@@ -1,5 +1,7 @@
 
-Kỹ năng:
-- Làm việc nhóm
-- Tư duy logic
-- Giải quyết vấn đề
+Kế hoạch học tập:
+- Ôn Git mỗi ngày để nhớ lệnh cơ bản
+- Thực hành commit và push thường xuyên
+- Tìm hiểu thêm về branch và merge
+- Luyện xử lý conflict trong nhóm
+- Ứng dụng GitHub trong dự án học tập
